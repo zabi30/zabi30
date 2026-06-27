@@ -4,7 +4,7 @@
 
 I build production-ready AI products that solve real business problems.
 
-Rather than training foundation models, I build the systems around them—AI agents, RAG pipelines, automation workflows, and full-stack applications.
+Rather than training foundation models, I build the systems around them—AI powered platforms , AI agents, RAG pipelines, automation workflows.
 
 ---
 
