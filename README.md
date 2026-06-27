@@ -29,6 +29,9 @@ Bilingual AI learning platform (Roman Urdu + English) for 4M+ Punjab Board stude
 Chapter-specific RAG chatbots, auto-generated lectures, quizzes, and PDF notes.
 `React` `Node.js` `LangChain` `RAG` `Supabase`
 
+### AI Interviewer 
+An AI-powered candidate screening platform that generates interview questions, evaluates responses, and produces structured recruiter reports.
+
 ### Astrobot
 Voice-enabled Telegram assistant — users send text or voice, database updates, bot responds in voice.
 Built for non-technical small business owners to manage inventory conversationally.
@@ -38,7 +41,7 @@ Built for non-technical small business owners to manage inventory conversational
 Mobile app that detects mood from facial expressions using CNN and recommends Spotify playlists.
 `React Native` `Flask` `TensorFlow` `OpenCV` `Firebase` `Spotify API`
 
----
+
 
 ##  Certifications
 
