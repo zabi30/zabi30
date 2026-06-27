@@ -2,8 +2,9 @@
 
 **AI Product Engineer** 
 
-I take LLMs and existing AI tools and turn them into complete products:
-automation bots, RAG pipelines, AI agents, and full-stack applications.
+I build production-ready AI products that solve real business problems.
+
+Rather than training foundation models, I build the systems around them—AI agents, RAG pipelines, automation workflows, and full-stack applications.
 
 ---
 
