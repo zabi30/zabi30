@@ -29,8 +29,8 @@ Bilingual AI learning platform (Roman Urdu + English) for 4M+ Punjab Board stude
 Chapter-specific RAG chatbots, auto-generated lectures, quizzes, and PDF notes.
 `React` `Node.js` `LangChain` `RAG` `Supabase`
 
-### AI Interviewer 
-An AI-powered candidate screening platform that generates interview questions, evaluates responses, and produces structured recruiter reports.
+### AI Interviewer
+An end-to-end AI recruitment platform that screens candidates by generating role-specific interview questions, evaluating responses with LLMs, and delivering structured hiring reports to streamline recruiter workflows.
 
 ### Astrobot
 Voice-enabled Telegram assistant — users send text or voice, database updates, bot responds in voice.
